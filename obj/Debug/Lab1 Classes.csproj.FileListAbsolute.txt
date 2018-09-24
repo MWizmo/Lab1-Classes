@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\bin\Debug\Lab1 Classes.exe.config
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\bin\Debug\Lab1 Classes.exe
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\bin\Debug\Lab1 Classes.pdb
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\obj\Debug\Lab1 Classes.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\obj\Debug\Lab1 Classes.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\obj\Debug\Lab1 Classes.exe
+C:\Users\Пользователь\Desktop\Code\C#\Lab1 Classes\Lab1 Classes\obj\Debug\Lab1 Classes.pdb
